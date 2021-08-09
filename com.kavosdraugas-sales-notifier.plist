@@ -7,8 +7,8 @@
 
         <key>ProgramArguments</key>
         <array>
-            <string>/Users/tomasrasymas/.virtualenvs/kavosdraugas-sale-notifier/bin/python</string>
-            <string>/Users/tomasrasymas/Documents/programming/kavosdraugas-sale-notifier/kavosdraugas-sale-notifier.py</string>
+            <string>{PYTHON_PATH}</string>
+            <string>{EXECUTABLE_PATH}</string>
         </array>
 
         <key>KeepAlive</key>
