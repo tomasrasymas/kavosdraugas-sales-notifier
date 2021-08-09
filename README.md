@@ -1,1 +1,1 @@
-# Sales on [kavosdraugas](www.kavosdraugas.lt) tracker and notifier
+# Sales on [kavosdraugas](https://www.kavosdraugas.lt/) tracker and notifier
