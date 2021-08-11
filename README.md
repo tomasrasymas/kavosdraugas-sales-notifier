@@ -19,3 +19,5 @@ This tool runs only OSX (`launchctl` and `osascript` are used) only.
 ```
 2. Run `./install.sh`, provide path to Python interpreter
 3. Wait for sales notifications!
+
+More in my [blog post](https://medium.com/@tomas.rasymas/python-project-coffee-sales-alert-b9e76f386b05)
