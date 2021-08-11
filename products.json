@@ -1,7 +1,16 @@
 [
     {
-        "url": "https://www.kavosdraugas.lt/p/kavos-draugo-pupeles-caprissimo-fragrante-1kg/"
+        "url": "https://www.kavosdraugas.lt/p/kavos-draugo-pupeles-caprissimo-fragrante-1kg/",
+        "on_sale": false,
+        "last_checked_on": "2021-08-11 15:31:18",
+        "price": 19.0,
+        "name": "Kavos pupel\u0117s \u201eCaprissimo Fragrante\u201c, 1 kg"
     },
     {
-        "url": "https://www.kavosdraugas.lt/p/kavos-pupeles-cafe-liegeois-venezia-corsato-1kg/"
+        "url": "https://www.kavosdraugas.lt/p/kavos-pupeles-cafe-liegeois-venezia-corsato-1kg/",
+        "on_sale": true,
+        "last_checked_on": "2021-08-11 15:31:18",
+        "price": 14.0,
+        "name": "Kavos pupel\u0117s Caf\u00e9 Li\u00e9geois \u201eVenezia\u201c, 1 kg"
+    }
 ]

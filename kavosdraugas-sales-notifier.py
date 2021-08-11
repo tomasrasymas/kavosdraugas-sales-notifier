@@ -10,12 +10,7 @@ if __name__ == '__main__':
         products = Products.from_file()
 
         while True:
-            products_to_notify = products.get_products_to_notify()
-
-            for product in products_to_notify:
-                product.notify()
-                time.sleep(5)
-
+            products.check_and_notify()
             products.to_file()
 
             time.sleep(config.CHECK_FREQUENCY)
